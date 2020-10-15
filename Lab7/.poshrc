@@ -1,0 +1,4 @@
+HISTCOUNT=100
+HISTFILECOUNT=100
+
+alias f="ls -l | wc -w"
